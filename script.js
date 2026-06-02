@@ -1,20 +1,20 @@
 const projects = [
     {
-        name: "Platform E-Commerce Modern",
+        name: "Activity Scheduler",
 
         image: "image/G-Activity-Scheduler.png",
 
-        website: "https://website-kamu.com",
+        website: "https://website-activity-scheduler.vercel.app",
 
-        github: "https://github.com/username/project1",
+        github: "https://github.com/alifakbar-mna/Website_Activity_Scheduler",
 
         description:
-            "Aplikasi web toko online full-stack dengan integrasi pembayaran otomatis dan dashboard admin.",
+            "Activity Scheduler hadir dengan menyelesaikan masalah bias informasi saat pembuatan dan pembahasan event atau acara dengan tampilan yang memudahkan pengguna.",
 
         technologies: [
-            "Next.js",
-            "Tailwind",
-            "Firebase"
+            "JavaScript",
+            "CSS",
+            "HTML"
         ]
     },
 
