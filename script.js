@@ -2,7 +2,7 @@ const projects = [
     {
         name: "Activity Scheduler",
 
-        image: "image/G-ActivityScheduler.png",
+        image: "image/G-activityScheduler.png",
 
         website: "https://website-activity-scheduler.vercel.app",
 
@@ -21,7 +21,7 @@ const projects = [
     {
         name: "AI Data Analytics Dashboard",
 
-        image: "image/G-ActivityScheduler.png",
+        image: "image/G-activityScheduler.png",
 
         website: "https://dashboard-kamu.com",
 
@@ -40,7 +40,7 @@ const projects = [
     {
         name: "Corporate Landing Page",
 
-        image: "image/G-ActivityScheduler.png",
+        image: "image/G-activityScheduler.png",
 
         website: "https://companyprofile.com",
 
